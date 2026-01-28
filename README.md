@@ -61,5 +61,3 @@ For permissions beyond academic use, please contact the authors.
 **Premind Lab**  
 Universidad Villanueva, Madrid, Spain  
 📩 precisionmindlab@gmail.com
-
-Update README
