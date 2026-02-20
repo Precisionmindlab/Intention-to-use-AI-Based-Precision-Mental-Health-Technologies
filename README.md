@@ -25,7 +25,7 @@ This research was supported by Project **PID2024-156740OA-I00**, funded by MICIU
 ---
 
 ## Dataset Description
-The dataset comprises **quantitative measures** related to:
+The dataset comprises quantitative measures related to:
 
 - Socio-demographic characteristics  
 - Psychological traits and attitudinal variables  
@@ -37,7 +37,7 @@ All data are provided in anonymized, coded numerical format and consist of scale
 
 ## 🧪 Methodological Notes
 - The dataset corresponds to the version used in the empirical analyses reported in the manuscript.
-- Composite measures were derived from **confirmatory factor analyses (CFA)** conducted on the original scale items.
+- Composite measures were derived from confirmatory factor analyses conducted on the original scale items.
 - No directly identifiable personal information is included.
 
 ---
@@ -46,7 +46,7 @@ All data are provided in anonymized, coded numerical format and consist of scale
 © Year – **Premind Lab**, Universidad Villanueva (Madrid, Spain).  
 All rights reserved.
 
-This dataset is released **exclusively for research and educational purposes**.  
+This dataset is released exclusively for research and educational purposes.  
 By using this dataset, users agree to:
 
 - Cite the original paper.
